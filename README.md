@@ -103,3 +103,7 @@ npx jest tests/seleniumConsole.test.ts
 - `tests/greenApiMessages.test.ts` — основной набор API-тестов (`getStateInstance` в `beforeAll`, `sendMessage` / `getChatHistory`: 200/400, обязательные поля, обработка 429).
 - `tests/seleniumConsole.test.ts` — шаблон UI-теста на Selenium, помеченный `skip`.
 
+
+## Сертификат
+
+Проект прошёл проверку со стороны GREEN-API — выдан сертификат о выполнении тестового задания (март 2026).
