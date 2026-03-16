@@ -107,3 +107,4 @@ npx jest tests/seleniumConsole.test.ts
 ## Сертификат
 
 Проект прошёл проверку со стороны GREEN-API — выдан сертификат о выполнении тестового задания (март 2026).
+[Сертификат GREEN-API (PDF)](https://green-api.com/certificates/developer/c0997cf776ae43f9.pdf)
